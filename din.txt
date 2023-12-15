@@ -1,0 +1,7 @@
+hi good morning
+:wq
+:wq
+hi good morning
+:wq
+:wq
+
